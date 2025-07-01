@@ -17,7 +17,7 @@ A clean and minimal **To-Do List app** built using **Flutter**, designed to help
 | Home Screen | Dark Mode |
 |------------|------------|
 | ![Home]()
-) | ![Dark](![image](https://github.com/user-attachments/assets/3c897992-49be-43cb-b512-2c4bada1476a)
+) | ![image](https://github.com/user-attachments/assets/3c897992-49be-43cb-b512-2c4bada1476a)
 ) |
 
 ## 🛠️ Tech Stack
