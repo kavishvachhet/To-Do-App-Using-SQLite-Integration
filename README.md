@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/073ab39d-7e22-4eca-bfe0-3482dde40857)# 📝 Flutter To-Do App
+# 📝 Flutter To-Do App
 
 A clean and minimal **To-Do List app** built using **Flutter**, designed to help you stay organized and productive. Add, delete, and mark tasks as completed – all in a beautiful cross-platform UI.
 
@@ -16,8 +16,7 @@ A clean and minimal **To-Do List app** built using **Flutter**, designed to help
 
 | Home Screen | Dark Mode | Theme Option |
 |-------------|-----------|--------------|
-| ![Home]()   | ![image](https://github.com/user-attachments/assets/3c897992-49be-43cb-b512-2c4bada1476a) | ![image](https://github.com/user-attachments/assets/3e687450-ca0a-44a2-99ff-f808b143324c)
- |
+| <img src="https://github.com/user-attachments/assets/386cdf41-1f8c-44ac-a4bb-2794cb00c570" width="250"/> | <img src="https://github.com/user-attachments/assets/3c897992-49be-43cb-b512-2c4bada1476a" width="250"/> | <img src="https://github.com/user-attachments/assets/3e687450-ca0a-44a2-99ff-f808b143324c" width="250"/> |
 
 
 ## 🛠️ Tech Stack
