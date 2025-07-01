@@ -10,7 +10,7 @@ A clean and minimal **To-Do List app** built using **Flutter**, designed to help
 - 📌 Mark tasks as completed/incomplete
 - 🌙 Light/Dark mode support
 - 💾 Persistent local storage using `sqflite` or `shared_preferences`
-- 📱 Responsive UI (Android, iOS, Web)
+- 📱 Responsive UI (Android, iOS)
 
 ## 📸 Screenshots
 
@@ -22,8 +22,8 @@ A clean and minimal **To-Do List app** built using **Flutter**, designed to help
 
 - **Flutter** - UI SDK
 - **Dart** - Programming language
-- **State Management** - Provider / Riverpod / setState
-- **Local Storage** - `sqflite` / `hive` / `shared_preferences`
+- **State Management** - Provider  / setState
+- **Local Storage** - `sqflite`  / `shared_preferences`
 
 ## 📦 Packages Used
 
