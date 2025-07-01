@@ -32,7 +32,9 @@ A clean and minimal **To-Do List app** built using **Flutter**, designed to help
 dependencies:
   flutter:
     sdk: flutter
-  provider: ^6.0.0
-  shared_preferences: ^2.0.15
-  sqflite: ^2.0.0+4
-  path_provider: ^2.0.11
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.4.2
+  path_provider: ^2.1.5
+  path: ^1.9.1
+  provider: ^6.1.2
+  shared_preferences: ^2.2.2
